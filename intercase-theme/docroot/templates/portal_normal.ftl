@@ -38,11 +38,11 @@ ${theme.include(body_top_include)}
 					</span>
 				</#if>
 			</h1>
-			<!--
+			
 			<h2 class="page-title">
 				<span>${the_title}</span>
 			</h2>
-			-->
+			
 		</div>
 
 		<#if !is_signed_in>
